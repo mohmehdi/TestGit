@@ -1,1 +1,2 @@
-# TestGit
+learning Git
+for colisions
