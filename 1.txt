@@ -1,1 +1,13 @@
-خر
+<<<<<<< HEAD
+saeed
+sajad
+Ciniur Hi
+hi Again
+=======
+11111
+>>>>>>> 1a7c3331e30ee402fee117dadf7d7d8c2de27355
+
+git Ciniur
+cout<<git
+>>>>>>> ee65035e8ab3426b09e480e086ea1e05483fd5c9
+cin>>git
