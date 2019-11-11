@@ -1,15 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-saeed
-sajad
-Ciniur Hi
-hi Again
-=======
-11111
->>>>>>> 1a7c3331e30ee402fee117dadf7d7d8c2de27355
-
-git Ciniur
-cout<<git
-=======
-colision test
->>>>>>> 57cdf20d5157af774f39054b4ddecd787f01428e
+dont write in this
