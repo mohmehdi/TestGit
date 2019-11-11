@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 saeed
 sajad
 Ciniur Hi
@@ -9,5 +10,11 @@ hi Again
 
 git Ciniur
 cout<<git
+<<<<<<< HEAD
 >>>>>>> ee65035e8ab3426b09e480e086ea1e05483fd5c9
 cin>>git
+=======
+=======
+colision test
+>>>>>>> 57cdf20d5157af774f39054b4ddecd787f01428e
+>>>>>>> 5486037c9a069a587ceaf9681ad75c97b5a6cd70
