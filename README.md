@@ -1,3 +1,2 @@
-learning Git
-for colisions
-first collision
+a Git training place for noob's .
+goal >> handle collision.
